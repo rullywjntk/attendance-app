@@ -18,4 +18,13 @@
     <string name="change_password">Change Password</string>
     <string name="change_language">Change Language</string>
     <string name="logout">Logout</string>
+    <string name="old_password">Old Password</string>
+    <string name="new_password">New Password</string>
+    <string name="confirm_new_password">Confirm New Password</string>
+    <string name="attendance">Attendance</string>
+    <string name="please_field_your_email">Please field your email</string>
+    <string name="please_use_valid_email">Please use valid email</string>
+    <string name="please_field_your_password">Please field your password</string>
+    <string name="failed">Failed</string>
+    <string name="success">Success</string>
 </resources>
